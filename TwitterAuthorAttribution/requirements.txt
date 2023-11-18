@@ -1,0 +1,9 @@
+## detailing all dependent libraries that you utilise my your Jupyter notebook
+
+# require to install plotly-express
+pip install plotly-express
+
+# require modules
+import numpy as np
+import pandas as pd
+import plotly.express as px

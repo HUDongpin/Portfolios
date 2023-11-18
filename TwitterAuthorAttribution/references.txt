@@ -1,0 +1,37 @@
+Reference
+
+CareerOneStop. (2020). Highest-Paying Industries. Retrieved June 5, 2022, from https://www.careeronestop.org/Toolkit/Industry/highest-paying-industries.aspx?&curPage=2
+
+Centers for Disease Control and Prevention. (n.d.). Behavioral Risk Factor Surveillance System. Retrieved May 31, 2022, from https://www.cdc.gov/brfss/index.html
+
+Centers for Disease Control and Prevention. (2014). OVERVIEW: BRFSS 2013. Retrieved June 1, 2022, from https://www.cdc.gov/brfss/annual_data/2013/pdf/overview_2013.pdf
+
+Craighead, W. E., Miklowitz, D. J., & Craighead, L. W. (2013). Psychopathology: History, diagnosis, and empirical foundations. John Wiley & Sons.
+
+Creative Commons. (n.d.). CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. Retrieved May 31, 2022, from https://creativecommons.org/publicdomain/zero/1.0/
+
+Department of Agriculture. (2020). Cash receipts by commodity, state ranking, 2020 Nominal (current dollars). Retrieved June 5, 2022, from https://data.ers.usda.gov/reports.aspx?ID=17844
+
+Dimock, M. (2015). Global Migration’s Rapid Rise. Retrieved June 1, 2022, from https://www.pewtrusts.org/en/trend/archive/summer-2016/global-migrations-rapid-rise
+
+Division of Population Health. (2017). Short Sleep Duration Among US Adults. Retrieved June 1, 2022, from https://www.cdc.gov/sleep/data_statistics.html
+
+Grandner M. A. (2017). Sleep, Health, and Society. Sleep medicine clinics, 12(1), 1–22. https://doi.org/10.1016/j.jsmc.2016.10.012
+
+Kripke, D. F., Garfinkel, L., Wingard, D. L., Klauber, M. R., & Marler, M. R. (2002). Mortality associated with sleep duration and insomnia. Archives of general psychiatry, 59(2), 131-136. Lplenka (2020). BRFSS Data. Retrieved June 1, 2022, from https://www.kaggle.com/datasets/lplenka/brfss-data
+
+Martins, A. J., Isherwood, C. M., Vasconcelos, S. P., Lowden, A., Skene, D. J., & Moreno, C. (2020). The effect of urbanization on sleep, sleep/wake routine, and metabolic health of residents in the Amazon region of Brazil. Chronobiology international, 37(9-10), 1335–1343. https://doi.org/10.1080/07420528.2020.1802287
+
+Mornings. (2022). The Countries and Cities With the Most Stressful Night’s Sleep. Retrieved May 31, 2022, from https://mornings.co.uk/most-stressful-nights-sleep/
+
+Official Alaska State Website.(n.d.) Alaska Information / Economy. Retrieved June 5, 2022, from https://alaska.gov/kids/learn/economy.htm#:~:text=The%20oil%20and%20gas%20industry,dependent%20upon%20world%20oil%20prices.
+
+Shrider, E. A., Kollar, M., Chen, F., & Semega, J. (2021). Income and poverty in the United States: 2020. Current Population Reports. US Census Bureau. Retrieved June 1, 2022, https://www.census.gov/library/publications/2021/demo/p60-273.html#:~:text=Median%20househol d%20income%20was%20%2467%2C521,and%20Table%20A%2D1).
+
+The National Institute for Occupational Safety and Health (NIOSH). (n.d.). Retrieved May 31, 2022, from https://www.cdc.gov/niosh/topics/surveillance/brfss/usingbrfss.html
+
+Walker, M. P., & Stickgold, R. (2006). Sleep, memory, and plasticity. Annual Review of Psychology, 57, 139–166. https://doi.org/10.1146/annurev.psych.56.091103.070307
+
+Watson, N. F., Badr, M. S., Belenky, G., Bliwise, D. L., Buxton, O. M., Buysse, D., Dinges, D. F., Gangwisch, J., Grandner, M. A., Kushida, C., Malhotra, R. K., Martin, J. L., Patel, S. R., Quan, S. F., & Tasali, E. (2015). Recommended Amount of Sleep for a Healthy Adult: A Joint Consensus Statement of the American Academy of Sleep Medicine and Sleep Research Society. Sleep, 38(6), 843–844. https://doi.org/10.5665/sleep.4716
+
+Zee, P. C., & Turek, F. W. (2006). Sleep and health: everywhere and in both directions. Archives of Internal Medicine, 166(16), 1686-1688.
